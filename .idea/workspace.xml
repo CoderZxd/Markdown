@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="181023c0-5ceb-41b4-afbb-3d9849e43d53" name="Default" comment="" />
+    <list default="true" id="181023c0-5ceb-41b4-afbb-3d9849e43d53" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/basic-usage-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/basic-usage.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-after-detached.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-b-detached.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-branch.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-detached.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-files.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/cherry-pick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-amend.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-detached.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-maint.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-master.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/conventions.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/diff.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/merge-ff.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/merge.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/rebase-onto.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/rebase.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/reset-commit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/reset-files.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/reset.svg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/basic-usage-2.svg" afterPath="$PROJECT_DIR$/images/git/svg/basic-usage-2.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/basic-usage.svg" afterPath="$PROJECT_DIR$/images/git/svg/basic-usage.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-after-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-after-detached.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-b-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-b-detached.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-branch.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-branch.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-detached.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-files.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-files.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/cherry-pick.svg" afterPath="$PROJECT_DIR$/images/git/svg/cherry-pick.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-amend.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-amend.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-detached.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-maint.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-maint.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-master.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-master.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/conventions.svg" afterPath="$PROJECT_DIR$/images/git/svg/conventions.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/diff.svg" afterPath="$PROJECT_DIR$/images/git/svg/diff.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/merge-ff.svg" afterPath="$PROJECT_DIR$/images/git/svg/merge-ff.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/merge.svg" afterPath="$PROJECT_DIR$/images/git/svg/merge.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/rebase-onto.svg" afterPath="$PROJECT_DIR$/images/git/svg/rebase-onto.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/rebase.svg" afterPath="$PROJECT_DIR$/images/git/svg/rebase.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/reset-commit.svg" afterPath="$PROJECT_DIR$/images/git/svg/reset-commit.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/reset-files.svg" afterPath="$PROJECT_DIR$/images/git/svg/reset-files.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/reset.svg" afterPath="$PROJECT_DIR$/images/git/svg/reset.svg" />
+    </list>
     <ignored path="Markdown.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -96,6 +139,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Markdown" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Markdown" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -110,6 +171,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Markdown\images\git\svg" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -543,12 +609,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518574632004</updated>
-      <workItem from="1518574645410" duration="834000" />
+      <workItem from="1518574645410" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="834000" />
+    <option name="totallyTimeSpent" value="894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />

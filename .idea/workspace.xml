@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="181023c0-5ceb-41b4-afbb-3d9849e43d53" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/basic-usage-2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/basic-usage.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-after-detached.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-b-detached.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-branch.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-detached.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/checkout-files.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/cherry-pick.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-amend.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-detached.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-maint.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/commit-master.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/conventions.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/diff.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/merge-ff.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/merge.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/rebase-onto.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/rebase.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/reset-commit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/reset-files.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/git/reset.svg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/basic-usage-2.svg" afterPath="$PROJECT_DIR$/images/git/svg/basic-usage-2.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/basic-usage.svg" afterPath="$PROJECT_DIR$/images/git/svg/basic-usage.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-after-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-after-detached.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-b-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-b-detached.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-branch.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-branch.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-detached.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/checkout-files.svg" afterPath="$PROJECT_DIR$/images/git/svg/checkout-files.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/cherry-pick.svg" afterPath="$PROJECT_DIR$/images/git/svg/cherry-pick.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-amend.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-amend.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-detached.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-detached.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-maint.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-maint.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/commit-master.svg" afterPath="$PROJECT_DIR$/images/git/svg/commit-master.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/conventions.svg" afterPath="$PROJECT_DIR$/images/git/svg/conventions.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/diff.svg" afterPath="$PROJECT_DIR$/images/git/svg/diff.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/merge-ff.svg" afterPath="$PROJECT_DIR$/images/git/svg/merge-ff.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/merge.svg" afterPath="$PROJECT_DIR$/images/git/svg/merge.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/rebase-onto.svg" afterPath="$PROJECT_DIR$/images/git/svg/rebase-onto.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/rebase.svg" afterPath="$PROJECT_DIR$/images/git/svg/rebase.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/reset-commit.svg" afterPath="$PROJECT_DIR$/images/git/svg/reset-commit.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/reset-files.svg" afterPath="$PROJECT_DIR$/images/git/svg/reset-files.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/git/reset.svg" afterPath="$PROJECT_DIR$/images/git/svg/reset.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Markdown.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,6 +66,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,10 +118,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Markdown" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Markdown" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -405,6 +386,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -583,6 +565,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -609,41 +597,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518574632004</updated>
-      <workItem from="1518574645410" duration="894000" />
+      <workItem from="1518574645410" duration="2872000" />
+      <workItem from="1519349884548" duration="172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="894000" />
+    <option name="totallyTimeSpent" value="3044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
